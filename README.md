@@ -25,4 +25,4 @@ This project is finished.
 
 ## Contact
 
-Created by [https://github.com/Johnsky-Games] (Jonathan Boada Freelancer) - feel free to contact me!
+Created by [Jonatha Boada Frelancer] (https://github.com/Johnsky-Games) - feel free to contact me!
